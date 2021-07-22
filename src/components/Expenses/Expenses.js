@@ -22,7 +22,6 @@ function Expenses(props) {
     });
 
     
-
     return (
 
         <Card className='expenses'>
